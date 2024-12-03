@@ -1,8 +1,5 @@
-# Batut Wars
+# Technopark (VK Education). Semester course on C/C++. Project Batut Wars.
 
-# ABOUT
-2D roguelike game on C++ (sfml)
+2D roguelike game on C++ (sfml).
 
-# ROADMAP
-
-![ROADMAP](https://github.com/Shureks-den/Batut_Wars/blob/main/images/RoadMapNew.png)
+Demonstration video of gameplay: https://vkvideo.ru/video182496114_456239205?list=ln-YRPGpZzw9NTLzqwL4I
